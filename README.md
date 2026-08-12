@@ -12,9 +12,9 @@ I am a video editor and digital media producer with four years of experience in 
 
 ## Core Focus
 
-* **Media Production:** Four years of experience in video editing, motion design, and visual branding.
-* **Technical Projects:** Experience with community server management, utility bots, and custom digital infrastructure.
-* **Development:** Built using clean, semantic HTML5 and responsive, dark-theme CSS3.
+**Media Production:** Four years of experience in video editing, motion design, and visual branding.
+**Technical Projects:** Experience with community server management, utility bots, and custom digital infrastructure.
+**Development:** Built using clean, semantic HTML5 and responsive, dark-theme CSS3.
 
 ---
 
