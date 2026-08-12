@@ -159,13 +159,13 @@ h1 span,
 }
 
 .modula {
-    background-image: url("formodulalinkmeta.png");
+    background-image: url("images/formodulalinkmeta.png");
     background-size: cover;
     background-position: center;
 }
 
 .nap {
-    background-image: url("fornap.png");
+    background-image: url("images/fornap.png");
     background-size: cover;
     background-position: center;
 }
