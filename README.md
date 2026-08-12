@@ -11,7 +11,7 @@ It's a small collection of the things I've been building lately — Modula, NAP,
 
 Kept the design simple and tried to make it feel more like my own space than a standard developer portfolio.
 
-**→ https://aboutme-git-main-nove300iqs-projects.vercel.app/index.html**
+**→ https://aboutme-delta-silk.vercel.app/**
 
 Still working on it, so expect things to change.
 
