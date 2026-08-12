@@ -15,3 +15,10 @@ Kept the design simple and tried to make it feel more like my own space than a s
 
 Still working on it, so expect things to change.
 
+
+
+# Instructions 
+
+Clone This Repo ->
+And open your html file with Live Server Extension In VSCODE ->
+Enjoy :>
