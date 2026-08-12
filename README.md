@@ -1,7 +1,6 @@
-# Portfolio Website
+# NoveOp
 
-This repository contains the source code for my personal portfolio website, built using HTML and CSS. It serves as a clean, minimalist space to showcase my work, experience, and digital projects.
-
+Yoo boys and girls, this is my new portfolio website. i have been learning and mastering (not that much but still) coding these while. So this repo contains my personal portfolio 
 ---
 
 ## About Me
