@@ -1,24 +1,21 @@
-# NoveOp
+# Hey there,
 
-Yoo boys and girls, this is my new portfolio website. i have been learning and mastering (not that much but still) coding these while. So this repo contains my personal portfolio 
----
+Iam *Azar Zayan*, so who is nove ?. Ohh that's my madeup name BTW. Ok so this is the website i am gonna show as my
+resume and portfolio. As a tech enthusiast i know whats the difference between a paper printed cv and a website 
+portfolio if its a tech company. So i made this website as my personal portfolio website.
 
-## New site.
-
-Finally put my personal portfolio together.
-
-It's a small collection of the things I've been building lately — Modula, NAP, some hardware projects, and a bit about what I'm currently learning.
-
-Kept the design simple and tried to make it feel more like my own space than a standard developer portfolio.
-
-**→ https://aboutme-delta-silk.vercel.app/**
-
-Still working on it, so expect things to change.
+As the website footer says "All rights not reserved" you can use it boys. hehe, and also if you need any helps doing it
+just mail to be azarazarzayan@gmail.com is my personal email address. 
 
 
+Some Quick Previews :
 
-# Instructions 
+![Home Page](images/work.png)
 
-Clone This Repo ->
-And open your html file with Live Server Extension In VSCODE ->
-Enjoy :>
+
+Here is the small setup guide :
+
+1, Clone this repo and open it in a code editor like vs code, or something.
+2, Install the live server extension in Vs code.
+3, Write click inside the index.html file.
+4, Then now you can preview it my boy XD.
