@@ -16,7 +16,7 @@ Some Quick Previews :
 
 Here is the small setup guide :
 
-1, Clone this repo and open it in a code editor like vs code, or something.
-2, Install the live server extension in Vs code.
-3, Write click inside the index.html file.
-4, Then now you can preview it my boy XD.
+1, Clone this repo and open it in a code editor like vs code, or something.<br>
+2, Install the live server extension in Vs code.<br>
+3, Write click inside the index.html file.<br>
+4, Then now you can preview it my boy XD.<br>
