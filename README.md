@@ -10,7 +10,8 @@ just mail to be azarazarzayan@gmail.com is my personal email address.
 
 Some Quick Previews :
 
-![Home Page](images/work.png)
+![Home Page](images/home.png)
+![Work Page](images/work.png)
 
 
 Here is the small setup guide :
